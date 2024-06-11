@@ -1,6 +1,12 @@
 ## Hi there 👋
 - 🌱 I’m currently learning  React, PHP, and SQL
-[![trophy](https://github-profile-trophy.vercel.app/?username=theussilvas)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=theussilvas&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
