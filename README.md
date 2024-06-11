@@ -2,6 +2,9 @@
 - 🌱 I’m currently learning  React, PHP, and SQL
 [![trophy](https://github-profile-trophy.vercel.app/?username=theussilvas)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+https://github.com/theussilvas#-github-stats
+
 <!--
 **theussilvas/theussilvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
