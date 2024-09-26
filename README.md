@@ -3,7 +3,7 @@
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theussilvas&theme=tokyonight&show_icons=true)
 
 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=theussilvas&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
