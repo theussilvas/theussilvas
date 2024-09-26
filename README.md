@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning  React, PHP, and SQL
+- 🌱 I’m currently learning  React, Java, and SQL
 
 
 
